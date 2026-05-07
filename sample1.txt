@@ -28,3 +28,4 @@
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
 update from update-repo
+追加した行　
